@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/github.io/clothe-store/static/css/main.05e0fab6.chunk.css",
+    "main.js": "/github.io/clothe-store/static/js/main.686b1738.chunk.js",
+    "main.js.map": "/github.io/clothe-store/static/js/main.686b1738.chunk.js.map",
+    "runtime-main.js": "/github.io/clothe-store/static/js/runtime-main.7908c7f6.js",
+    "runtime-main.js.map": "/github.io/clothe-store/static/js/runtime-main.7908c7f6.js.map",
+    "static/css/2.aa6f40d0.chunk.css": "/github.io/clothe-store/static/css/2.aa6f40d0.chunk.css",
+    "static/js/2.0778afb8.chunk.js": "/github.io/clothe-store/static/js/2.0778afb8.chunk.js",
+    "static/js/2.0778afb8.chunk.js.map": "/github.io/clothe-store/static/js/2.0778afb8.chunk.js.map",
+    "index.html": "/github.io/clothe-store/index.html",
+    "static/css/2.aa6f40d0.chunk.css.map": "/github.io/clothe-store/static/css/2.aa6f40d0.chunk.css.map",
+    "static/css/main.05e0fab6.chunk.css.map": "/github.io/clothe-store/static/css/main.05e0fab6.chunk.css.map",
+    "static/js/2.0778afb8.chunk.js.LICENSE.txt": "/github.io/clothe-store/static/js/2.0778afb8.chunk.js.LICENSE.txt",
+    "static/media/banner-principal-desktop.6c9c1692.png": "/github.io/clothe-store/static/media/banner-principal-desktop.6c9c1692.png",
+    "static/media/burguer-menu.d28a668e.svg": "/github.io/clothe-store/static/media/burguer-menu.d28a668e.svg",
+    "static/media/MainCards.scss": "/github.io/clothe-store/static/media/categorias-destacadas-proteccion.829da140.png",
+    "static/media/icon-cart.d89b8e31.svg": "/github.io/clothe-store/static/media/icon-cart.d89b8e31.svg",
+    "static/media/icon-close.29aea83f.svg": "/github.io/clothe-store/static/media/icon-close.29aea83f.svg",
+    "static/media/icon-facebook.6b3eb44d.svg": "/github.io/clothe-store/static/media/icon-facebook.6b3eb44d.svg",
+    "static/media/icon-instagram.38def436.svg": "/github.io/clothe-store/static/media/icon-instagram.38def436.svg",
+    "static/media/icon-twitter.772b0aa8.svg": "/github.io/clothe-store/static/media/icon-twitter.772b0aa8.svg",
+    "static/media/icon-user.f567a2eb.svg": "/github.io/clothe-store/static/media/icon-user.f567a2eb.svg",
+    "static/media/icon-youtube.f51efc8b.svg": "/github.io/clothe-store/static/media/icon-youtube.f51efc8b.svg",
+    "static/media/left-arrow.be1da184.svg": "/github.io/clothe-store/static/media/left-arrow.be1da184.svg",
+    "static/media/right-arrow.92933977.svg": "/github.io/clothe-store/static/media/right-arrow.92933977.svg",
+    "static/media/search-icon.10e2e4e0.svg": "/github.io/clothe-store/static/media/search-icon.10e2e4e0.svg",
+    "static/media/slick-theme.css": "/github.io/clothe-store/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7908c7f6.js",
+    "static/css/2.aa6f40d0.chunk.css",
+    "static/js/2.0778afb8.chunk.js",
+    "static/css/main.05e0fab6.chunk.css",
+    "static/js/main.686b1738.chunk.js"
+  ]
+}
