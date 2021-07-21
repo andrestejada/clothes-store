@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.Navbrand{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 0.8em 1em;
+    align-items: flex-end;
+
+    @media (min-width:600px){
+        .burguer-menu{
+            display: none;
+        }
+    }
+
+    @media (max-width:700px){
+        flex-flow: row wrap;
+        height: max-content;
+        align-items: center;
+        .shopping-card{
+            order: 2;
+        }
+    }
+
+    .shopping-card{
+        padding: 0.5em 1.3em;
+        cursor: pointer;
+        position: relative;
+    }
+
+    form{
+        flex-grow: 1;
+        @media (max-width:500px){
+            width: 100%;
+            order: 3;
+            .search-box{
+                width: 100%;
+            }
+        }
+    }
+   
+    p{
+        font-size: 3em;
+        color: black;
+        text-transform: uppercase;
+        font-family: 'Bebas Neue', cursive;
+        margin: 0;
+        text-align: left;
+        flex-grow: 1;
+        height: 100%;
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    .search-box{
+        
+        display: flex;
+        justify-content: right;
+        height: 45px;
+        width: 80%;
+        input{
+            border: 1px solid transparent;
+            border-radius: 2px;
+            background-color: #EEEEEE;
+            color:#6B6B6B ;
+            padding: 0.5em 1.3em;
+            width: 25rem;
+            height: 45px;
+            &:focus{
+                outline: transparent;
+            }
+        }
+
+        button{
+            border: 1px solid transparent;
+            background-color: #DEDEDE;
+            height: 45px;
+        }
+    }
+
+    .card-box{
+        flex-grow: 1;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
+        padding: 0.5em 1.3em;
+
+        @media(max-width:600px ){
+                display: none; 
+        }
+        
+        svg{
+            cursor: pointer;
+            width: 2em;
+        }
+
+        button{
+            border: solid 1px black;
+            background-color: white;
+        }
+    }
+}

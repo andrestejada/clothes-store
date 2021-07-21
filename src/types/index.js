@@ -1,0 +1,9 @@
+export const GET_PRODUCTS = 'GET_PRODUCTS'
+export const SEARCH_PRODUCTS = 'SEARCH_PRODUCTS'
+export const SEARCH_NOT_FOUND = 'SEARCH_NOT_FOUND'
+
+
+export const IS_OPEN_MENU = 'IS_OPEN_MENU'
+
+export const ADD_SHOPPING_CARD = 'ADD_SHOPPING_CARD'
+

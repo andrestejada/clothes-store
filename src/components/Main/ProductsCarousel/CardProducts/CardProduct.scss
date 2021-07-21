@@ -1,0 +1,43 @@
+.card-producto-container{
+    width: 15em;
+    border: 1px solid #E6E6E6;
+    margin: 0 auto;    
+    img{
+        width: 100%;
+        height: 15em;
+    }
+
+    div{
+        width: 100%;
+        display: flex;
+        flex-flow: column nowrap;
+        background-color: #F4F4F4;
+        
+        padding: 1em 2em;
+        p{
+            font-weight: 500;
+        }
+        .price{
+            font-family: Helvetica,sans-serif;
+            color: #5B17AA;
+            font-weight: bold;
+        }
+        button{
+            display: block;
+            width: 100%;
+            height: max-content;
+            border: 1px solid black;
+            background-color: black;
+            color: white;
+            padding: 0.4em;
+            font-size: 0.75em;
+            svg{
+                fill: white;
+                width: 1em;
+                margin-right: 0.5em;
+                height: 1em;
+            }
+        }
+
+    }
+}
